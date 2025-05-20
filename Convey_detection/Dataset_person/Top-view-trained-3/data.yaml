@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: top-view-trained
+  url: https://universe.roboflow.com/topview/top-view-trained/dataset/3
+  version: 3
+  workspace: topview
+test: ../test/images
+train: Top-view-trained-3/train/images
+val: Top-view-trained-3/valid/images

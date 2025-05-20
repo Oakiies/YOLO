@@ -1,0 +1,14 @@
+names:
+- 0 pedestrian
+- '0'
+- person
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: top-view-trained
+  url: https://universe.roboflow.com/topview/top-view-trained/dataset/2
+  version: 2
+  workspace: topview
+test: ../test/images
+train: Top-view-trained-2/train/images
+val: Top-view-trained-2/valid/images
